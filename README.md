@@ -9,5 +9,4 @@
 - [redis-cli 操作指令大全_基础篇](https://github.com/zengzhiwei12138/interview/blob/master/doc/cache/redis-cli%20命令行操作指令大全_基础篇.md)
 - [redis常用配置详解](https://github.com/zengzhiwei12138/interview/blob/master/doc/cache/redis常用配置详解.md)
 - [redis常见面试问题](https://github.com/zengzhiwei12138/interview/blob/master/doc/cache/redis面试常见问题.md)
-- [redis常见问题](./doc/cache/redis面试常见问题.md)
 
