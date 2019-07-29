@@ -86,7 +86,7 @@ maxmemory-policy支持的规则如下图所示。其中的LRU（Least Recently U
 	# 关于sort的by参数,get参数等等不一一讲解
 
 ### 发布订阅模式
-	
+
 	# 发布订阅 channel为频道  频道名可自定义  message为发送的消息
 	publish channel message
 	# 订阅频道
@@ -100,7 +100,8 @@ redis支持两种方式的持久化，一种是RDB方式，一种是AOF方式。
 
 - RDB方式
 
-		# RDB方式的持久化是通过快照的方式完成的，
+		RDB方式的持久化是通过快照的方式完成的
+	
 		# 当符合一定条件时，redis会自动将内存中的所有数据进行快照并存储在硬盘上
 		# 可在配置文件中配置 RDB是redis默认采用的持久化方式
 		save 
