@@ -37,4 +37,5 @@ dependencies {
         exclude group:'org.slf4j', module:'slf4j-log4j12'
     }
     compile 'org.apache.kafka:kafka_2.11:2.3.0'
+    compile 'redis.clients:jedis:2.9.0'
 }
