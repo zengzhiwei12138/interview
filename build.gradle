@@ -38,4 +38,5 @@ dependencies {
     }
     compile 'org.apache.kafka:kafka_2.11:2.3.0'
     compile 'redis.clients:jedis:2.9.0'
+    compile 'org.redisson:redisson:3.11.1'
 }
