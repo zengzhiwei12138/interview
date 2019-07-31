@@ -18,6 +18,11 @@ import java.util.concurrent.TimeUnit;
 public class JedisExample {
 
     public static void main(String[] args) throws Exception {
+
+        int a2 = 20,a3 = 20,a1 = 20;
+
+        System.out.println(""+a1+a2+a3);
+
         Jedis jedis = new Jedis();
         jedis.set("", "", "NX", "PX", 2000);
         jedis.set("", "");

@@ -78,5 +78,8 @@ end
 
 - [基于redis的分布式锁的实现](https://juejin.im/post/5cc165816fb9a03202221dd5)
 - [redLock](https://redis.io/topics/distlock)
+- [《Redis官方文档》用Redis构建分布式锁](http://ifeve.com/redis-lock/)
 - [Redlock：Redis分布式锁最牛逼的实现](https://mp.weixin.qq.com/s?__biz=MzU5ODUwNzY1Nw==&mid=2247484155&idx=1&sn=0c73f45f2f641ba0bf4399f57170ac9b&scene=21#wechat_redirect)
+- [Redisson实现Redis分布式锁的N种姿势](https://mp.weixin.qq.com/s/8uhYult2h_YUHT7q7YCKYQ)
 - [redisson](https://github.com/redisson/redisson)
+
