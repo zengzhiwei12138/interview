@@ -4,7 +4,7 @@
 - [网络协议相关知识点](./doc/basic/网络协议相关知识点.md)
 - [Java的异常处理](./doc/basic/java异常处理.md)
 
-
+- [线程基础知识点](./doc/thread/thread-basic.md)
 
 
 
@@ -17,6 +17,10 @@
 - [redis常用配置详解](./doc/cache/redis常用配置详解.md)
 - [redis常见面试问题](./doc/cache/redis面试常见问题.md)
 
+### 线程并发
+
+- [线程进阶知识点](./doc/thread/thread-advanced.md)
+
 ### 数据库
 
 
@@ -28,4 +32,11 @@
 ### redis lua 表达式
 
 ### redisson 源码学习
+
+
+
+## 参考链接
+
+- [CS-Notes](https://github.com/CyC2018/CS-Notes)
+- [javaguide](https://snailclimb.gitee.io/javaguide/#)
 

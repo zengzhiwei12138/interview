@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
  * @see redis.clients.jedis.Jedis
  * @since 2019/7/27 0027-23:00
  */
-public class JedisExample {
+public class JedisExample{
 
     public static void main(String[] args) throws Exception {
 
