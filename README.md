@@ -23,7 +23,8 @@
 
 ### 数据库
 
-
+- [数据库基础知识点1](./doc/database/database-basic.md)
+- [数据库基础知识点2](./doc/database/database-basic2.md)
 
 
 
