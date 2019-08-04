@@ -17,6 +17,18 @@ import java.util.concurrent.*;
 public class ThreadExample {
 
     public static void main(String[] args) throws Exception {
+
+        Integer i = new Integer(3);
+        Integer j = new Integer(3);
+
+        i = 3;
+
+        int z = i;
+
+        System.out.println(i == j);
+
+        System.out.println(z == i);
+
         // 初始化线程池 参见阿里巴巴开发公约  程序员应该显示的初始化线程池 而不应该调用 executors 的方法
         // Executors.newFixedThreadPool(10); 该种方法需要pass 因为该种方法创建的线程池可接收的线程 task 队列为 Integer.MAX_VALUE  可能导致OOM
 
