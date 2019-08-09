@@ -30,9 +30,13 @@
 
 ## 待办事项
 
-### redis lua 表达式
+- redis lua 表达式
+- 啃下spring源码
+- 啃下23种设计模式
 
-### redisson 源码学习
+- redisson 源码学习
+
+
 
 
 
