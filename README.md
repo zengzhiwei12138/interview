@@ -30,10 +30,10 @@
 
 ## 待办事项
 
-- redis lua 表达式
-- 啃下spring源码
+- redis lua 表达式    完成进度  0%
+- 啃下spring源码     
 - 啃下23种设计模式
-
+- mybatis源码
 - redisson 源码学习
 
 
