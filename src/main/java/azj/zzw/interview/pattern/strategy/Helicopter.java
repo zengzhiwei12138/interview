@@ -1,13 +1,13 @@
 package azj.zzw.interview.pattern.strategy;
 
 /**
- * 策略模式环境角色
+ * 策略模式实现飞机系统
  *
  * @author zzw zengzhiwei_hfut@163.com
  * @see Strategy
- * @since 2019/8/15 0015-17:30
+ * @since 2019/8/16 0016-10:25
  */
-public class StrategyContext {
+public class Helicopter extends Plane {
 
 
 }
